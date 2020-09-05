@@ -12,5 +12,5 @@ The following guides illustrate how to use some features concretely:
 
 * [Service Registration and Discovery](https://spring.io/guides/gs/service-registration-and-discovery/)
 
-### Dashboard for Discover
+### Dashboard for Discovery
 localhost:8761
